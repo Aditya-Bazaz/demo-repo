@@ -1,3 +1,3 @@
 # Demo
 
-Demo read me file < Enter Decription >
+Demo read me file < Enter Decription of project >
